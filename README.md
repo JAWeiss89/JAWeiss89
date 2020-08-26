@@ -1,6 +1,6 @@
 ## Hello everyone! 
-My name is Jorge Weiss and I'm currently focused on developing web-based applications.  
-I was born in Mexico in the coastal city of Tampico where it's hot and humid but the food is to die for. Please visit me on [LinkedIn](linkedin.com/in/jorgeweiss1).
+My name is Jorge Weiss and I'm currently focused on developing web-based software.  
+I was born in Mexico 🇲🇽 in the coastal city of Tampico where it's hot and humid but the food is to die for. I grew up in Austin, TX and have seen it grow to the tech city it is today. Please visit my [portfolio](https://portfolio-jweiss.herokuapp.com/) and connect with me on [LinkedIn](linkedin.com/in/jorgeweiss1) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
