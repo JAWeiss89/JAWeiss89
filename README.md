@@ -8,8 +8,12 @@ I was born in Mexico in the coastal city of Tampico where it's hot and humid but
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAWeiss89&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAWeiss89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jorge's GitHub Stats" />
+<a href="https://github.com/JAWeiss89/JAWeiss89">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAWeiss89&hide=html,css&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/JAWeiss89/JAWeiss89">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAWeiss89&hide=stars,contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jorge's GitHub Stats" />
+</a>
 
 <!--
 **JAWeiss89/JAWeiss89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
