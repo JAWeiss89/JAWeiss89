@@ -1,9 +1,10 @@
 ## Hello everyone! 
 My name is Jorge Weiss and I'm currently focused on developing web-based software.  
-I was born in Mexico 🇲🇽 in the coastal city of Tampico where it's hot and humid but the food is delicious. I grew up in Austin, TX 🇺🇸 and have seen it grow to the tech city it is today. Being brought up by these two very different cultures has inspired me strive to connect people of different cultures. My latest project [ne-xo](https://github.com/JAWeiss89/ne-xo) focuses on briding communication between speakers of different languages. Being an immigrant myself, I've seen first hand the difficulties that come with not being able to communicate with others. It could potentially be used by English-speaking teachers trying to communicate with Hispanic parents. I don't pretend ne-xo solves this large problem but rather I'm hopeful it puts a dent in it and helps someone out there communicate with someone they weren't able to before. Please visit my [portfolio](https://portfolio-jweiss.herokuapp.com/) and connect with me on [LinkedIn](https://linkedin.com/in/jorgeweiss1).
+Please visit my [portfolio](https://portfolio-jweiss.herokuapp.com/) and connect with me on [LinkedIn](https://linkedin.com/in/jorgeweiss1).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=0ac6ff)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
