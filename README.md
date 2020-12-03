@@ -6,7 +6,7 @@ Please visit my [portfolio](https://portfolio-jweiss.herokuapp.com/) and connect
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=0ac6ff)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffbf4b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/JAWeiss89/JAWeiss89">
